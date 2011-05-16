@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PZLib", "PZLib.vcproj", "{564CF2A6-96D2-4142-9D9F-A0614D46EE4C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PZip", "PZip.vcproj", "{0D0550F9-BE61-40FB-962A-AB207C4CEBBF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{564CF2A6-96D2-4142-9D9F-A0614D46EE4C}.Debug.ActiveCfg = Debug|Win32
+		{564CF2A6-96D2-4142-9D9F-A0614D46EE4C}.Debug.Build.0 = Debug|Win32
+		{564CF2A6-96D2-4142-9D9F-A0614D46EE4C}.Release.ActiveCfg = Release|Win32
+		{564CF2A6-96D2-4142-9D9F-A0614D46EE4C}.Release.Build.0 = Release|Win32
+		{0D0550F9-BE61-40FB-962A-AB207C4CEBBF}.Debug.ActiveCfg = Debug|Win32
+		{0D0550F9-BE61-40FB-962A-AB207C4CEBBF}.Debug.Build.0 = Debug|Win32
+		{0D0550F9-BE61-40FB-962A-AB207C4CEBBF}.Release.ActiveCfg = Release|Win32
+		{0D0550F9-BE61-40FB-962A-AB207C4CEBBF}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
